@@ -1,0 +1,45 @@
+body{
+    /* background-color: bisque;off */
+
+    background-image: url(logo-bgn.png);
+    background-repeat: no-repeat;
+    background-size: 15ch;
+    background-position: top right;
+  
+}
+
+
+.P1 {
+    text-align: center;
+}
+
+.P2 {
+    text-align: left;
+}
+
+.P3 {
+    text-align: right;
+    letter-spacing: 1px;
+    word-spacing: 0,1px;
+}
+
+.P4 {
+    text-align: justify;
+    text-indent:3em ;
+    text-decoration:underline
+}
+
+h1 {
+    text-align: center;
+}
+
+.dec1 {
+text-decoration: underline;
+text-transform: uppercase;
+
+}
+
+.D1 {
+color: rgb(198, 163, 119);
+
+}
